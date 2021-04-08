@@ -1,0 +1,19 @@
+body {
+  background-color: Thistle;
+}
+
+h1 {
+  color: #9370DB
+}
+
+h3 {
+  color: #9370DB
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
